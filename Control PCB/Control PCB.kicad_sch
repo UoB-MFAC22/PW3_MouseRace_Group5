@@ -2385,6 +2385,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "EBD34, MFAC22, ZR385, JN859, TBDF20, RB2548"
+		(exclude_from_sim no)
+		(at 164.846 25.908 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9064d64e-9beb-4e3e-9028-c286610d122a")
+	)
 	(junction
 		(at 245.11 41.275)
 		(diameter 0)
@@ -3971,7 +3981,7 @@
 			(uuid "b2684928-745e-48f4-9da7-05e844eb93da")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "J1")
 					(unit 1)
@@ -4037,7 +4047,7 @@
 			(uuid "5af844da-822a-451d-9ada-cd35be961d95")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "#PWR05")
 					(unit 1)
@@ -4103,7 +4113,7 @@
 			(uuid "a9e56249-7327-4e23-ba6c-ff35a08b7b0e")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "#PWR01")
 					(unit 1)
@@ -4237,7 +4247,7 @@
 			(uuid "b03b69f9-e3d3-4174-8a95-41f3da45fae3")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "#PWR017")
 					(unit 1)
@@ -4521,7 +4531,7 @@
 			(uuid "d13eb732-fdf8-4e59-9ad9-c8d7523eff24")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "Q1")
 					(unit 1)
@@ -4794,7 +4804,7 @@
 			(uuid "f97b074d-aae0-4a7f-ad59-0664d2d57f5b")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "R5")
 					(unit 1)
@@ -4948,7 +4958,7 @@
 			(uuid "a0a7ec7b-57da-41a2-a542-eaac440c6814")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "U1")
 					(unit 1)
@@ -5014,7 +5024,7 @@
 			(uuid "3400b8d1-53f9-4e78-9c9a-2a41f9086bd8")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "#PWR07")
 					(unit 1)
@@ -5233,7 +5243,7 @@
 			(uuid "699c4497-b5d5-4c5f-bdf9-46238357ddeb")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "A1")
 					(unit 1)
@@ -5702,7 +5712,7 @@
 			(uuid "f9b7ec45-02a1-4817-aef6-9f44dd16f255")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "D1")
 					(unit 1)
@@ -6125,7 +6135,7 @@
 			(uuid "26107cbb-7f3c-48e6-8ec9-ef3174c47c24")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "C4")
 					(unit 1)
@@ -6257,7 +6267,7 @@
 			(uuid "1af3f8cd-0cda-4ca0-8767-afad04eb70b1")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "#PWR08")
 					(unit 1)
@@ -6457,7 +6467,7 @@
 			(uuid "faead798-b02d-4665-bcd5-1c636baa262c")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "#PWR013")
 					(unit 1)
@@ -6524,7 +6534,7 @@
 			(uuid "9dbb09d5-f419-4996-864a-be27320ecfb6")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "R1")
 					(unit 1)
@@ -6664,7 +6674,7 @@
 			(uuid "95b8c8aa-ce0b-4d0b-bbd9-bdd0a92c756a")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "C1")
 					(unit 1)
@@ -6730,7 +6740,7 @@
 			(uuid "7629bd93-72c3-4e3f-8760-f32f48ddc5c1")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "#PWR014")
 					(unit 1)
@@ -6864,7 +6874,7 @@
 			(uuid "75a563f8-af06-4c3e-a85f-6a7751a1e1dc")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "C3")
 					(unit 1)
@@ -7289,7 +7299,7 @@
 			(uuid "0ea247ec-e235-4940-80dc-d2e7d11be60a")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "J3")
 					(unit 1)
@@ -7355,7 +7365,7 @@
 			(uuid "f9cbeb6d-ff73-433a-b192-184ec2ed1fd4")
 		)
 		(instances
-			(project ""
+			(project "Control PCB"
 				(path "/370974b3-9d72-4980-845f-6d3cb44ece72"
 					(reference "#PWR04")
 					(unit 1)

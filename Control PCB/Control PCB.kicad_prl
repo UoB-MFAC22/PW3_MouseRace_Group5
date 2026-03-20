@@ -50,10 +50,12 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_ff5555ff",
+    "visible_layers": "00000000_00000000_0ffffff5_ff5555ff",
     "zone_display_mode": 0
   },
   "git": {
+    "integration_disabled": false,
+    "repo_password": "",
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
