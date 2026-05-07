@@ -11,10 +11,10 @@ void loop() {
   // put your main code here, to run repeatedly:
  int sensorLeft = analogRead(A2);
  int sensorRight = analogRead(A3);
- if (sensorLeft < 3000){
+ if (sensorLeft < 4000){
   analogWrite(D2, 150);
   analogWrite(D3, 50);
- } else if (sensorRight < 3000){
+ } else if (sensorRight < 4000){
   analogWrite(D3, 150);
   analogWrite(D2, 50);
  } else {
